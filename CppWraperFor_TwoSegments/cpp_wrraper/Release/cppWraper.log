@@ -1,8 +1,8 @@
-﻿Build started 26.05.2020 20:49:18.
-     1>Project "E:\Projects\CppWraperFor_TwoSegments\cpp_wrraper\cppWraper.vcxproj" on node 2 (Build target(s)).
+﻿Build started 07.06.2020 22:08:50.
+     1>Project "E:\Git\Projects\Min_Betw_2_Seg_Csharp\CppWraperFor_TwoSegments\cpp_wrraper\cppWraper.vcxproj" on node 2 (Build target(s)).
      1>Link:
-         cppWraper.vcxproj -> E:\Projects\CppWraperFor_TwoSegments\Release\CppWrap.dll
-     1>Done Building Project "E:\Projects\CppWraperFor_TwoSegments\cpp_wrraper\cppWraper.vcxproj" (Build target(s)).
+         cppWraper.vcxproj -> E:\Git\Projects\Min_Betw_2_Seg_Csharp\CppWraperFor_TwoSegments\Release\CppWrap.dll
+     1>Done Building Project "E:\Git\Projects\Min_Betw_2_Seg_Csharp\CppWraperFor_TwoSegments\cpp_wrraper\cppWraper.vcxproj" (Build target(s)).
 
 Build succeeded.
 

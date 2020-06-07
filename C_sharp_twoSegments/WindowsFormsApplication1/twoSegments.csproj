@@ -55,7 +55,7 @@
   <ItemGroup>
     <Reference Include="CppWrap, Version=1.0.7451.31940, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\CppWrap.dll</HintPath>
+      <HintPath>..\..\CppWraperFor_TwoSegments\Release\CppWrap.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

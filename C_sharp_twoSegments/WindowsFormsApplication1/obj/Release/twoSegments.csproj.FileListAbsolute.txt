@@ -8,3 +8,16 @@ E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments
 E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.csproj.GenerateResource.Cache
 E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegMinFinderCSh.exe
 E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegMinFinderCSh.pdb
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.csprojResolveAssemblyReference.cache
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\twoSegMinFinderCSh.exe.config
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegMinFinderCSh.exe
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegMinFinderCSh.pdb
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\twoSegMinFinderCSh.exe
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\twoSegMinFinderCSh.pdb
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\CppWrap.dll
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\CppWrap.pdb
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.csprojResolveAssemblyReference.cache
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.Form1.resources
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.Answer.resources
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.Properties.Resources.resources
+E:\Git\Projects\Min_Betw_2_Seg_Csharp\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.csproj.GenerateResource.Cache

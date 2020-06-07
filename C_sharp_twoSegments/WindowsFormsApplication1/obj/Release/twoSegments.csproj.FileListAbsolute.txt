@@ -1,0 +1,10 @@
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\twoSegMinFinderCSh.exe.config
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\twoSegMinFinderCSh.exe
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\twoSegMinFinderCSh.pdb
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\bin\Release\CppWrap.pdb
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.Form1.resources
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.Answer.resources
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.Properties.Resources.resources
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegments.csproj.GenerateResource.Cache
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegMinFinderCSh.exe
+E:\Projects\C_sharp_twoSegments\WindowsFormsApplication1\obj\Release\twoSegMinFinderCSh.pdb
